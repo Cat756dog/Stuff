@@ -1,0 +1,19 @@
+<!--<a>  is an Anchor,  Creates a link to another page or a section of the same document.
+<br> is a Line Break,   It creates a new line in the text.
+<div> is a Division,    It is used to group block elements together for styling purposes.
+<form> is a Form,       It is used to collect user input.
+<h1> to <h6>  Headings, They define headings of different levels, with <h1> being the highest level and <h6> the lowest.
+<hr> is a Horizontal Rule, It creates a thematic break in the content, often used to separate sections.
+<img> is an Image,      It is used to embed images in the document.
+<imput> is an Input Field, It is used to create interactive controls for user input.
+<link> is a Link,       It is used to link to external resources, such as stylesheets.
+<p> is a Paragraph,     It defines a block of text.
+<script> is a Script,   It is used to embed JavaScript code in the document.
+<span> is a Span,       It is used to group inline elements for styling purposes.
+<li> is List Item,      It defines an item in a list.
+<ol> is an Ordered List, It creates a numbered list. It is used with <li>.
+<table> is a Table,     It is used to create a table structure.
+<td> is a Table Data Cell, It defines a cell in a table row.
+<th> is a Table Header Cell, It defines a header cell in a table row.
+<tr> is a Table Row,   It defines a row in a table.
+<ul> is an Unordered List, It creates a bulleted list. It is used with <li>.
